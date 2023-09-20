@@ -12,4 +12,5 @@
     Week7: Drug Variational Auto Encoder (VAE)
     Week8: Biomedical Generative Adversarial Networks (GAN)
 
-*해당 자료들은 비공개 (https://learningspoons.com/course/detail/bio_dl/)
+*추후 자료들은 비공개 
+(https://learningspoons.com/course/detail/bio_dl/)
