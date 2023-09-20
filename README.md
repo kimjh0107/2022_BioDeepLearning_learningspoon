@@ -1,6 +1,6 @@
 # [바이오딥러닝 Learning Spoons]
 - Author: JongHyun Kim 
-- Date: 2022-06-25 ~ 
+- Date: 2022-06-25 ~ 2022-08-27
 
 ## Table of Contents 
     Week1: Drug ADME & Toxicity Prediction 
@@ -11,3 +11,5 @@
     Week6: Graph Neural Network 
     Week7: Drug Variational Auto Encoder (VAE)
     Week8: Biomedical Generative Adversarial Networks (GAN)
+
+*해당 자료들은 비공개 (https://learningspoons.com/course/detail/bio_dl/)
